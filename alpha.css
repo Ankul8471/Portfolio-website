@@ -471,6 +471,7 @@ main{
 }
 
 
+
 .footer{
     display: flex;
     justify-content: space-between;
@@ -623,5 +624,9 @@ main{
   hr{
     display: none;
   }
+  .About{
+    height: 20vh;
+  }
+
 
 }
