@@ -481,7 +481,7 @@ main{
     background: black;
     color: rgb(244, 238, 238);
    height: 4vw;
-   width: 100vw;
+   width: 100%;
    padding-left:5vw ;
 }
 .footer-text{
